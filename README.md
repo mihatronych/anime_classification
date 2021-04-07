@@ -1,5 +1,6 @@
 # anime_classification
 Че пацаны, онимэ?
+https://www.kaggle.com/c/anime-recommendation-rucode/data
 Доступны 3 файла: anime.csv, user_ratings.csv и sample_submission.csv
 
 Описания файлов:
